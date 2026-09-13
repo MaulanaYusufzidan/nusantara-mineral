@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { fraunces, plexSans } from "@/lib/fonts";
 import "./globals.css";
 
+
 export const metadata: Metadata = {
   title: "Nusantara Mineral — Transforming Resources Into Sustainable Progress",
   description:
